@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Recyclerview</string>
+
+    <string-array name="nama">
+        <item>01 Rocky</item>
+        <item>02 Jocker</item>
+        <item>03 Teman Tapi Menikah</item>
+        <item>04 Black Panther</item>
+        <item>05 Up</item>
+        <item>06 Thor</item>
+        <item>07 Bad Genius</item>
+        <item>08 Homestay</item>
+        <item>09 Thai Jashe</item>
+        <item>10 7 Days</item>
+        <item>11 Friendzone</item>
+        <item>12 Suddenly 20</item>
+        <item>13 Jumanji</item>
+        <item>14 Enemy</item>
+        <item>15 Frozen</item>
+        <item>16 A Gift</item>
+        <item>17 Single Lady</item>
+        <item>18 Honey I Blew Up</item>
+        <item>19 Virgin Snow</item>
+        <item>20 Friends Never Die</item>
+    </string-array>
+
+    <array name="photo">
+        <item>@drawable/rocky</item>
+        <item>@drawable/joker</item>
+        <item>@drawable/teman_tapi_menikah</item>
+        <item>@drawable/black_panther</item>
+        <item>@drawable/up</item>
+        <item>@drawable/thor</item>
+        <item>@drawable/badgenius</item>
+        <item>@drawable/homestay</item>
+        <item>@drawable/thaijashe</item>
+        <item>@drawable/days7</item>
+        <item>@drawable/friendzone</item>
+        <item>@drawable/suddenly20</item>
+        <item>@drawable/jumanji</item>
+        <item>@drawable/enemy</item>
+        <item>@drawable/frozen</item>
+        <item>@drawable/gift</item>
+        <item>@drawable/singlelady</item>
+        <item>@drawable/honeyiblewup</item>
+        <item>@drawable/virginsnow</item>
+        <item>@drawable/friends_never_die</item>
+    </array>
+
+    <string-array name="desc">
+        <item>Rocky menceritakan seorang petinju bernama Rocky Balboa yang bertarung melawan juara tinju kelas berat bernama Apollo Creed.</item>
+        <item>Film Joker merupakan tontonan bergenre psikologi karya sutradara Todd Phillips yang ia tulis bersama Scott Silver berdasarkan karakter salah satu musuh epos superhero Batman.</item>
+        <item>Film Teman Tapi Menikah 2 menceritakan kelanjutan dari kisah asmara Ayudia dan Ditto yang memutuskan menikah setelah belasan tahun berteman..</item>
+        <item>BLACK PANTHER mengisahkan tentang Raja T\'Challa yang kembali ke Wakanda setelah peristiwa yang terjadi dalam film CAPTAIN AMERICA: CIVIL WAR dimana sang ayah, T\'Chaka tewas. Namun, kembalinya T\'Challa sebagai penguasa ini ditentang oleh sebuah kelompok.</item>
+        <item>Up adalah film petualangan komedi-drama animasi[1] CGI Amerika 2009 yang diproduksi oleh Pixar Animation Studios dan dirilis oleh Walt Disney Pictures. Film ini berpusat pada seorang duda tua bernama Carl Fredricksen (Ed Asner) dan seorang anak lelaki yang sungguh-sungguh bernama Russell (Jordan Nagai).</item>
+        <item>Thor adalah film pahlawan super Amerika 2011 berdasarkan karakter Marvel Comics dengan nama yang sama, diproduksi oleh Marvel Studios dan didistribusikan oleh Paramount Pictures.</item>
+        <item>Semua bermula ketika Lynn masuk ke sekolah barunya yang dianggap oleh sang ayah mampu memberikan peluang lebih besar bisa sekolah ke luar negeri.</item>
+        <item>Homestay menggambarkan kisah pelik kehidupan bahwa tidak ada yang sempurna.</item>
+        <item>Thai Jashe! (English: Will Be Done!) is a 2016 Indian Gujarati film[3] written and directed by Nirav Barot.[4][5] It is about the struggles of a middle class man to achieve his goals in the metrocity Ahmedabad.</item>
+        <item>7 Days mengisahkan tentang dua pasangan yang tidak bisa dipisahkan. Tan, sosok pria yang hidupnya terkadang sembrono. Namun punya mimpi yang tinggi untuk menjadi seorang Chef yang sukses.</item>
+        <item>Palm ( Naphat Siangsomboon) telah terjebak dalam sebuah hubungan sebatas teman atau friend zone bersama sahabatnya, Gink (Pimchanok Luevisadpaibul) selama 10 tahun.</item>
+        <item>Suddenly Twenty merupakan film produksi Thailand yang dirilis pada bulan November 2016 Suddenly Twenty ber-genre komedi-romantis. Film berdurasi dua jam ini mengisahkan kehidupan seorang wanita yang memiliki bakat bernyanyi.</item>
+        <item>Kisahnya diawali dari empat siswa SMA yang dihukum untuk merapikan ruangan di sekolah.</item>
+        <item>Enemy adalah film kerjasama kedua antara Jake Gyllenhaal dan Dennis Villenevue setelah Prisoners (2013), walaupun sebenarnya Enemy dikerjakan sebelum produksi Prisoners.</item>
+        <item>Frozen is about a princess named Anna, and her sister Elsa who becomes queen. There is also a funny talking snowman called Olaf.</item>
+        <item>A Gift merupakan film omnibus yang terbagi dalam tiga cerita tentang enam anak muda yang mencoba menghadapi tantangan hidupnya masing-masing.</item>
+        <item>Film ini berkisah tentang seorang cewe yang 5 kali pacaran dan gagal, akhirnya dia menjadi penulis buku dan bikin komunitas untuk cewe2 jomblo (intinya meski jomblo tapi tetap harus happy dan harus semangat berkarya).</item>
+        <item>Honey, I Blew Up the Kid is a 1992 American comedy science fiction family film, and the second installment of the Honey, I Shrunk the Kids film series. </item>
+        <item>Kim-min (Lee Jun Ki), pemuda asal Korea Selatan yang harus pindah ke Kyoto di Jepang karena ayahnya yang seorang profesor mendapat pekerjaan baru di sana.</item>
+        <item>riends Never Die atau dalam versi Thailand dikenal sebagai film Meung Gu adalah salah satu film terbaik dari Thailand yang diproduksi tahun 2012 yang merupakan karya seorang penulis sekaligus sutradara terkenal bernama Atsajun Sattakovit.</item>
+    </string-array>
+</resources>
